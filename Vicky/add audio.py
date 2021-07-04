@@ -1,4 +1,6 @@
 
+# https://github.com/Zulko/moviepy/issues/504#issuecomment-288806522
+
 from moviepy.editor import VideoFileClip, AudioFileClip
 import moviepy.editor as mpe
 
